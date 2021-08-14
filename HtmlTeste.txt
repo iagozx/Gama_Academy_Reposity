@@ -1,0 +1,21 @@
+<DOCTYPE>
+<html>
+<head>
+<style>
+body{
+ background-color: rgb(84, 16, 243);
+  }
+</style>
+<img src ="ga.jpg" width="300">
+<main>
+    <body>
+        <font color="white">
+            <h1> Bem vindo a JobsNET</h1>
+        </font>
+    </body>
+  <h2> A melhor plataforma de empregos!</h2>
+  <h1> Cadastre o seu currículo</h1>
+</main>
+
+</head>
+</html>
